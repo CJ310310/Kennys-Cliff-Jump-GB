@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9427a38a-c306-4f5c-a1d8-6df1aea12253",
+  "name": "CliffBottom",
+  "symbol": "bg_cliffbottom",
+  "tileColors": "",
+  "filename": "CliffBottom.png",
+  "width": 40,
+  "height": 72,
+  "imageWidth": 320,
+  "imageHeight": 576,
+  "autoColor": true
+}

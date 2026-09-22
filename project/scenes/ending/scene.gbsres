@@ -1,0 +1,31 @@
+{
+  "_resourceType": "scene",
+  "id": "395d3dd5-92c6-47ce-9585-f633250d53eb",
+  "_index": 7,
+  "name": "Ending",
+  "backgroundId": "d0522863-e806-409b-8493-17ebd65efa72",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00f0+0f78+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_8",
+  "x": 1488,
+  "y": 880,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "022f8d77-bf12-4b7d-ae45-cd0114451471"
+      },
+      "id": "25b07386-4463-4840-a2ea-81011191e23b"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "05d6894c-a42a-4a41-b9a9-74d2a521634b",
+  "name": "StartArea",
+  "symbol": "bg_startarea",
+  "tileColors": "00300+",
+  "filename": "StartArea.png",
+  "width": 32,
+  "height": 24,
+  "imageWidth": 256,
+  "imageHeight": 192,
+  "autoColor": true
+}

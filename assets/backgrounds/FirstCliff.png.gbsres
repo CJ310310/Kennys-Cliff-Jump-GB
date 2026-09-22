@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "97612078-c51e-4105-bb1b-dfc4abb9216d",
+  "name": "FirstCliff",
+  "symbol": "bg_firstcliff",
+  "tileColors": "",
+  "filename": "FirstCliff.png",
+  "width": 56,
+  "height": 26,
+  "imageWidth": 448,
+  "imageHeight": 208,
+  "autoColor": true
+}

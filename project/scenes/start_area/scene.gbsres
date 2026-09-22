@@ -1,0 +1,45 @@
+{
+  "_resourceType": "scene",
+  "id": "3cdc07a3-c813-4306-bf2d-07681b888750",
+  "_index": 3,
+  "name": "Start Area",
+  "backgroundId": "05d6894c-a42a-4a41-b9a9-74d2a521634b",
+  "tilesetId": "",
+  "width": 32,
+  "height": 24,
+  "type": "PLATFORM",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "collisions": "0080+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc+0014+0fc0+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 64,
+  "y": 232,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "7b1d0643-8680-4da1-b3f1-2aac49e5a166"
+      },
+      "id": "2b8c9366-5e5f-467e-a41c-2c8f4637d84c"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "monoOBP0": [
+    1,
+    2,
+    3
+  ]
+}

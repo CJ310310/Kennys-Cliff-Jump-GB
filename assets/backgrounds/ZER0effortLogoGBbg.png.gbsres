@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "1b78437c-2967-4ecf-acb6-1faa0d4ced6b",
+  "name": "ZER0effortLogoGBbg",
+  "symbol": "bg_zer0effortlogogbbg",
+  "tileColors": "00168+",
+  "filename": "ZER0effortLogoGBbg.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

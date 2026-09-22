@@ -1,0 +1,38 @@
+{
+  "_resourceType": "scene",
+  "id": "f8825dcd-a5ed-4777-a9e2-2662090586b9",
+  "_index": 4,
+  "name": "Cliff",
+  "backgroundId": "97612078-c51e-4105-bb1b-dfc4abb9216d",
+  "tilesetId": "",
+  "width": 56,
+  "height": 26,
+  "type": "PLATFORM",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "collisions": "002a0+0f22+0016+0f22+0016+0f21+0017+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+0f20+0018+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_5",
+  "x": 216,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "5360d6c7-8c88-4237-895e-32a641952fd9",
+  "monoOBP0": [
+    1,
+    2,
+    3
+  ]
+}

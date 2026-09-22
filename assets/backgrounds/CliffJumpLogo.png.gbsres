@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "66ed0948-2797-4ce9-82d0-5c3e3dee5bdb",
+  "name": "CliffJumpLogo",
+  "symbol": "bg_cliffjumplogo",
+  "tileColors": "",
+  "filename": "CliffJumpLogo.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

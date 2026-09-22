@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b02beaeb-5eeb-4602-8c72-0c45ac19400b",
+  "name": "CliffFall",
+  "symbol": "bg_clifffall",
+  "tileColors": "",
+  "filename": "CliffFall.png",
+  "width": 40,
+  "height": 72,
+  "imageWidth": 320,
+  "imageHeight": 576,
+  "autoColor": true
+}

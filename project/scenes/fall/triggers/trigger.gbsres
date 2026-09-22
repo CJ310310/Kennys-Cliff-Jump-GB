@@ -1,0 +1,33 @@
+{
+  "_resourceType": "trigger",
+  "id": "15c004f0-fea0-4f48-8b59-235f64b885d2",
+  "name": "",
+  "prefabId": "",
+  "x": 3,
+  "y": 0,
+  "symbol": "trigger_6",
+  "prefabScriptOverrides": {},
+  "width": 37,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "f8825dcd-a5ed-4777-a9e2-2662090586b9",
+        "x": {
+          "type": "number",
+          "value": 30
+        },
+        "y": {
+          "type": "number",
+          "value": 10
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "ccdf99cf-8be5-4af3-ae5d-efc5865b6440"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d0522863-e806-409b-8493-17ebd65efa72",
+  "name": "EndingBG",
+  "symbol": "bg_endingbg",
+  "tileColors": "00168+",
+  "filename": "EndingBG.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

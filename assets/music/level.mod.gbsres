@@ -1,0 +1,11 @@
+{
+  "_resourceType": "music",
+  "id": "962a62ae-2be5-4d6b-ace5-f42bff3483d6",
+  "name": "level",
+  "symbol": "song_level",
+  "settings": {
+    "disableSpeedConversion": true
+  },
+  "filename": "level.mod",
+  "type": "mod"
+}

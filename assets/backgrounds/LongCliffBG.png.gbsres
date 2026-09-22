@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3831c85e-00f3-4345-aa8a-2e78e35b6104",
+  "name": "LongCliffBG",
+  "symbol": "bg_longcliffbg",
+  "tileColors": "00870+",
+  "filename": "LongCliffBG.png",
+  "width": 120,
+  "height": 18,
+  "imageWidth": 960,
+  "imageHeight": 144,
+  "autoColor": true
+}
